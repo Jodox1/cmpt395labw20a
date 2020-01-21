@@ -1,5 +1,7 @@
 #Group Lovelace
 
--Alex Lee(Jodox1)
--Nathan Wong(PhasingBlade)
--Brodie Fankhanel(fankhanelb)
+Members
+
+1. Alex Lee (GitHub: Jodox1)
+2. Nathan Wong (GitHub: PhasingBlade)
+3. Brodie Fankhanel (GitHub: fankhanelb)
